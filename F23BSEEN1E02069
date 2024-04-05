@@ -36,8 +36,8 @@ class VehicleTracker:
 tracker = VehicleTracker()
 
 # Adding vehicles
-tracker.add_vehicle("ABC123", "saqlian")
-tracker.add_vehicle("XYZ789", "Saqlqain")
+tracker.add_vehicle("ABC123", "Ali")
+tracker.add_vehicle("XYZ789", "Saqlain")
 
 # Marking attendance
 tracker.mark_attendance("ABC123")
